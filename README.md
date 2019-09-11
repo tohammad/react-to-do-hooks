@@ -1,4 +1,4 @@
-# Simple react App using Hooks
+# Simple Todo React App using Hooks in no time
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
